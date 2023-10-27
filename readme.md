@@ -3,6 +3,7 @@
 
 Description:
 
+![](https://github.com/OsvaldoValdivia/P4-Job_satisfaction/tree/main/Images/indicators.gif)
 
 
 ## Installation
