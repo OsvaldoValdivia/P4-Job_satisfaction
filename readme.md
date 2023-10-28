@@ -11,6 +11,12 @@ The series of graphs provide a comparative analysis of multiple countries, empha
 ![indicators](https://github.com/OsvaldoValdivia/P4-Job_satisfaction/blob/main/Images/indicators.gif)
 
 
+#### Variable map visuals
+
+These maps visually illustrate the variations and differences among countries with regard to various indicators. Each indicator is color-coded on the map, allowing for a quick and intuitive understanding of how each country performs in relation to that specific variable.  
+
+
+![maps](https://github.com/OsvaldoValdivia/P4-Job_satisfaction/blob/main/Images/maps.gif)
 
 
 #### Multivariable analysis
@@ -19,6 +25,7 @@ This series of graphs compares multiple countries using two-axis graphs. Each gr
 
 
 ![multivariables_analysis](https://github.com/OsvaldoValdivia/P4-Job_satisfaction/blob/main/Images/multivariables_analysis.gif)
+
 
 
 ## Datasets
