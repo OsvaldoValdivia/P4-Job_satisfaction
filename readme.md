@@ -15,7 +15,9 @@ The series of graphs provide a comparative analysis of multiple countries, empha
 
 #### Multivariable analysis
 
-This series of graphs compares multiple countries using two-axis graphs. Each graph displays two different indicators, showing potential relationships between them. A Pearson correlation test has been conducted to quantify these relationships. This visual and statistical analysis helps uncover connections and trends in job conditions and satisfaction across countries.
+This series of graphs compares multiple countries using two-axis graphs. Each graph displays two different indicators, showing potential relationships between them. A Pearson correlation test has been conducted to quantify these relationships. This visual and statistical analysis helps uncover connections and trends in job conditions and satisfaction across countries.  
+
+
 ![multivariables_analysis](https://github.com/OsvaldoValdivia/P4-Job_satisfaction/blob/main/Images/multivariables_analysis.gif)
 
 
@@ -38,7 +40,9 @@ A brief description of each indicator as well as the link to the data source is 
 The indicator measures the average number of weekly working hours in individuals' primary jobs. This indicator's dataset contains merged data with the following filters : gender (males and females), age (15 to 64 years), employment status (employed persons), working time (full-time and part-time work), using the NACE Rev. 2 classification system. The data is reported annually and is expressed in hours.
 
 Link to the data source : 
-https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWHUN2/default/table?lang=en
+https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWHUN2/default/table?lang=en.  
+
+
 
 
 -  **LONG_WORKING_HOURS** :
@@ -46,7 +50,9 @@ https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWHUN2/default/table?lang=en
 The indicator "Long working hours" measures the prevalence of long working hours in individuals' primary jobs. This indicator's dataset contains merged data with the following filters :  gender (male and females), age (15 to 64 years), employment status (employed persons), using the International Standard Classification of Occupations 2008 (ISCO-08). The data is reported on an annual basis and is expressed as a percentage.
 
 Link to the data source : 
-https://ec.europa.eu/eurostat/databrowser/view/LFSA_QOE_3A2$DV_608/default/table?lang=en
+https://ec.europa.eu/eurostat/databrowser/view/LFSA_QOE_3A2$DV_608/default/table?lang=en.  
+
+
 
 
 -  **USUALLY_WORKING_EVENING** :
@@ -54,7 +60,9 @@ https://ec.europa.eu/eurostat/databrowser/view/LFSA_QOE_3A2$DV_608/default/table
 The indicator "Employed persons working in the evenings" measures the proportion of employed individuals who work in the evenings as part of their total employment. This indicator's dataset contains merged data with the following filters : gender (male and females), age (15 to 64 years), and employment status (employed persons). The information is reported on an annual basis and is expressed as a percentage.
 
 Link to the data source : 
-https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWPEVE$DV_604/default/table?lang=en
+https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWPEVE$DV_604/default/table?lang=en.  
+
+
 
 
 -  **MEAN_NET_INCOME** and **MEDIAN_NET_INCOME** :
@@ -63,7 +71,9 @@ This indicator reports the average and median income for different countries.  T
 
 
 Link to the data source : 
-https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWPEVE$DV_604/default/table?lang=en
+https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWPEVE$DV_604/default/table?lang=en.  
+
+
 
 
 -  **FINANTIAL_SITUATION_RATING** :
@@ -72,7 +82,9 @@ The indicator "Satisfaction with finantial situation" provides a comprehensive v
 
 
 Link to the data source : 
-https://ec.europa.eu/eurostat/databrowser/view/ILC_PW01$DV_524/default/table?lang=en
+https://ec.europa.eu/eurostat/databrowser/view/ILC_PW01$DV_524/default/table?lang=en.  
+
+
 
 
 -  **MEAN_NET_INCOME** and **MEDIAN_NET_INCOME** :
@@ -81,7 +93,9 @@ This indicator reports the average and median income for different countries.  T
 
 
 Link to the data source : 
-https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWPEVE$DV_604/default/table?lang=en
+https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWPEVE$DV_604/default/table?lang=en.  
+
+
 
 
 -  **USUALLY_WORKING_SATURDAYS** and **USUALLY_WORKING_SUNDAYS** :
@@ -94,6 +108,8 @@ Links to the data source :
 https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWPSAT$DV_606/default/table?lang=en
 
 https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWPSUN$DV_607/default/table?lang=en.  
+
+
 
 
 -  **FINANTIAL_SITUATION_RATING** :
