@@ -32,7 +32,11 @@ This series of graphs compares multiple countries using two-axis graphs. Each gr
 TODO 
 
 
-![multivariables_analysis](https://github.com/OsvaldoValdivia/P4-Job_satisfaction/blob/main/Images/tree.png)
+![decision_tree](https://github.com/OsvaldoValdivia/P4-Job_satisfaction/blob/main/Images/tree.png)
+
+Indicators importance description
+
+![indicators_importance](https://github.com/OsvaldoValdivia/P4-Job_satisfaction/blob/main/Images/indicators_importance.png)
 
 
 ## Datasets
