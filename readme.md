@@ -1,9 +1,17 @@
 # P4-Job_satisfaction
-## Summary of the project
 
-### Description
+## Description
 
-#### Variable analysis.  
+The project is a comprehensive analysis of the factors affecting job satisfaction in various European countries, using data from Eurostat for the year 2018. It employs Python and a range of data visualization techniques to delve into the relationships between socio-economic indicators and job satisfaction.  
+
+The project concentrates on key metrics such as weekly working hours, net income, the proportion of remote workers, and the prevalence of weekend work. The primary objective is to uncover how these variables influence job satisfaction and whether there are variations among different European countries.  
+
+The analysis employs barplots to compare indicators across countries, scatter plots to explore relationships between multiple indicators for each country, map visuals to visualize geographical variations, and a regression decision tree to model the influence and importance of different indicators on job satisfaction.  
+
+This multifaceted approach will provide valuable insights for understanding job satisfaction dynamics in a European context.
+
+
+### Variable analysis.  
 
 The series of graphs provide a comparative analysis of multiple countries, emphasizing the specific case of France, across various indicators. These graphs offer a visual representation of how France compares to other nations in key areas related to job conditions and satisfaction for the year 2018.  
 
@@ -11,7 +19,7 @@ The series of graphs provide a comparative analysis of multiple countries, empha
 ![indicators](https://github.com/OsvaldoValdivia/P4-Job_satisfaction/blob/main/Images/indicators.gif)
 
 
-#### Variable map visuals
+### Variable map visuals
 
 These maps visually illustrate the variations and differences among countries with regard to various indicators. Each indicator is color-coded on the map, allowing for a quick and intuitive understanding of how each country performs in relation to that specific variable.  
 
@@ -19,7 +27,7 @@ These maps visually illustrate the variations and differences among countries wi
 ![maps](https://github.com/OsvaldoValdivia/P4-Job_satisfaction/blob/main/Images/maps.gif)
 
 
-#### Multivariable analysis
+### Multivariable analysis
 
 This series of graphs compares multiple countries using two-axis graphs. Each graph displays two different indicators, showing potential relationships between them. A Pearson correlation test has been conducted to quantify these relationships. This visual and statistical analysis helps uncover connections and trends in job conditions and satisfaction across countries.  
 
@@ -27,9 +35,9 @@ This series of graphs compares multiple countries using two-axis graphs. Each gr
 ![multivariables_analysis](https://github.com/OsvaldoValdivia/P4-Job_satisfaction/blob/main/Images/multivariables_analysis.gif)
 
 
-#### Decision Tree (regression)
+### Decision Tree (regression)
 
-TODO 
+In essence, the decision tree in this project acts as a powerful analytical tool for exploring the complex relationships between socio-economic indicators and job satisfaction. It aids in building a model that provides insights into the influence of these indicators and their relative importance in determining job satisfaction across various European countries.
 
 
 ![decision_tree](https://github.com/OsvaldoValdivia/P4-Job_satisfaction/blob/main/Images/tree.png)
