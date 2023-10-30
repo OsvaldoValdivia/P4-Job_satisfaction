@@ -129,7 +129,7 @@ The indicator "Satisfaction with finantial situation" provides a comprehensive v
 
 -  **USUALLY_WORKING_SATURDAYS** and **USUALLY_WORKING_SUNDAYS** :
 
-This indicator calculates the percentage of employed individuals who usually work on Saturdays as part of their total employment. The data is reported annually and is expressed as a percentage. The indicator presents no gender-based distinctions in a population within the range of age of 16 - 64 years.
+This indicator calculates the percentage of employed individuals who usually work on Saturdays/Sundays as part of their total employment. The data is reported annually and is expressed as a percentage. The indicator presents no gender-based distinctions in a population within the range of age of 16 - 64 years.
 
 
 
@@ -139,6 +139,14 @@ This indicator calculates the percentage of employed individuals who usually wor
 -  **INABILITY_UNEXPECTED_EXPENSES** :
 
 The indicator "Inability to face unexpected financial expenses" measures the percentage of households that are unable to cover unexpected financial expenses. This data is reported annually and provides insights into the financial resilience of households, indicating the proportion that may struggle to handle unexpected financial challenges. The indicator is expressed as a percentage and makes no differentiation of households types.
+
+<br> 
+
+-  **WORKING_HOME** :
+
+The indicator "Percentage of employed adults working at home" measures the proportion of employed adults who work from home, considering the age group of 16-64 years. This data provides insights into the prevalence of remote work (or other) and how it varies across different demographic regions.
+
+<br> 
 
 
 Links to the data sources
@@ -151,3 +159,4 @@ Links to the data sources
 - USUALLY_WORKING_SATURDAYS : https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWPSAT$DV_606/default/table?lang=en
 - USUALLY_WORKING_SUNDAYS : https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWPSUN$DV_607/default/table?lang=en.
 - INABILITY_UNEXPECTED_EXPENSES : https://ec.europa.eu/eurostat/databrowser/view/ILC_MDES04$DV_421/default/table?lang=en.  
+- WORKING_HOME : https://ec.europa.eu/eurostat/databrowser/view/LFST_HHWAHCHI/default/table?lang=en.  
