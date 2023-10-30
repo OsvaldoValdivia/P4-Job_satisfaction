@@ -96,6 +96,9 @@ The indicator measures the average number of weekly working hours in individuals
 The indicator "Long working hours" measures the prevalence of long working hours in individuals' primary jobs. This indicator's dataset contains merged data with the following filters :  gender (male and females), age (15 to 64 years), employment status (employed persons), using the International Standard Classification of Occupations 2008 (ISCO-08). The data is reported on an annual basis and is expressed as a percentage.
 
 
+-  **GENDER_PAY_GAP** :
+
+The indicator "Gender pay gap" focuses on the unadjusted gender pay gap within the sector of Industry, construction, and services (excluding public administration, defense, compulsory social security). The gender pay gap is expressed as a percentage. This indicator helps reveal the disparity in pay between genders in specific economic sectors, without accounting for other factors like experience or education that could affect the pay gap.
 
 <br> 
 
@@ -133,6 +136,10 @@ This indicator calculates the percentage of employed individuals who usually wor
 <br> 
 
 
+-  **INABILITY_UNEXPECTED_EXPENSES** :
+
+The indicator "Inability to face unexpected financial expenses" measures the percentage of households that are unable to cover unexpected financial expenses. This data is reported annually and provides insights into the financial resilience of households, indicating the proportion that may struggle to handle unexpected financial challenges. The indicator is expressed as a percentage and makes no differentiation of households types.
+
 
 Links to the data sources
 
@@ -142,4 +149,5 @@ Links to the data sources
 - MEAN_NET_INCOME and MEDIAN_NET_INCOME : https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWPEVE$DV_604/default/table?lang=en.
 - FINANTIAL_SITUATION_RATING : https://ec.europa.eu/eurostat/databrowser/view/ILC_PW01$DV_524/default/table?lang=en.  
 - USUALLY_WORKING_SATURDAYS : https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWPSAT$DV_606/default/table?lang=en
-- USUALLY_WORKING_SUNDAYS** : https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWPSUN$DV_607/default/table?lang=en.
+- USUALLY_WORKING_SUNDAYS : https://ec.europa.eu/eurostat/databrowser/view/LFSA_EWPSUN$DV_607/default/table?lang=en.
+- INABILITY_UNEXPECTED_EXPENSES : https://ec.europa.eu/eurostat/databrowser/view/ILC_MDES04$DV_421/default/table?lang=en.  
